@@ -1,3 +1,29 @@
+### 2018-09-20 16:00:20 Update:
+
+- gcr.io/linkerd-io/cli-bin:git-d2310311
+- gcr.io/linkerd-io/proxy:git-8ab9b498
+- gcr.io/linkerd-io/proxy:git-37884805
+- gcr.io/linkerd-io/proxy:git-d2310311
+- gcr.io/linkerd-io/proxy:git-30e6930a
+- gcr.io/linkerd-io/grafana:git-8ab9b498
+- gcr.io/linkerd-io/web:git-30e6930a
+- gcr.io/linkerd-io/grafana:git-37884805
+- gcr.io/linkerd-io/grafana:git-30e6930a
+- gcr.io/linkerd-io/grafana:git-d2310311
+- gcr.io/linkerd-io/web:git-37884805
+- gcr.io/linkerd-io/web:git-8ab9b498
+- gcr.io/linkerd-io/web:git-d2310311
+- gcr.io/linkerd-io/proxy-init:git-30e6930a
+- gcr.io/linkerd-io/proxy-init:git-8ab9b498
+- gcr.io/linkerd-io/proxy-init:git-37884805
+- gcr.io/linkerd-io/proxy-init:git-d2310311
+- gcr.io/linkerd-io/controller:git-37884805
+- gcr.io/linkerd-io/cli-bin:git-30e6930a
+- gcr.io/linkerd-io/controller:git-d2310311
+- gcr.io/linkerd-io/controller:git-30e6930a
+- gcr.io/linkerd-io/cli-bin:git-37884805
+- gcr.io/linkerd-io/controller:git-8ab9b498
+- gcr.io/linkerd-io/cli-bin:git-8ab9b498
 ### 2018-09-20 15:58:32 Update:
 
 - gcr.io/istio-release/galley:collab-gcp-identity-20180919-09-15
