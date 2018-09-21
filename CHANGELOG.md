@@ -1,3 +1,39 @@
+### 2018-09-21 15:59:18 Update:
+
+- gcr.io/istio-release/galley:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/mixer:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/servicegraph:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/citadel-test:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/citadel:master-20180920-09-15
+- gcr.io/istio-release/node-agent-k8s:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/citadel:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/citadel-test:master-20180920-09-15
+- gcr.io/istio-release/galley:master-20180920-09-15
+- gcr.io/istio-release/proxyv2:master-20180920-09-15
+- gcr.io/istio-release/mixer:master-20180920-09-15
+- gcr.io/istio-release/pilot:master-20180920-09-15
+- gcr.io/istio-release/pilot:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/node-agent-test:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/node-agent-test:master-20180920-09-15
+- gcr.io/istio-release/grafana:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/proxy_init:master-20180920-09-15
+- gcr.io/istio-release/proxy_init:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/node-agent:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/servicegraph:master-20180920-09-15
+- gcr.io/istio-release/proxy_debug:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/proxyv2:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/sidecar_injector:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/proxy_debug:master-20180920-09-15
+- gcr.io/istio-release/sidecar_injector:master-20180920-09-15
+- gcr.io/istio-release/servicegraph_debug:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/servicegraph_debug:master-20180920-09-15
+- gcr.io/istio-release/mixer_debug:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/test_policybackend:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/mixer_debug:master-20180920-09-15
+- gcr.io/istio-release/test_policybackend:master-20180920-09-15
+- gcr.io/istio-release/app:collab-gcp-identity-20180920-09-15
+- gcr.io/istio-release/node-agent:master-20180920-09-15
+- gcr.io/istio-release/app:master-20180920-09-15
 ### 2018-09-21 15:54:08 Update:
 
 - gcr.io/google-containers/etcd-ppc64le:3.2.24-1
