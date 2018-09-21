@@ -1,3 +1,11 @@
+### 2018-09-21 16:00:11 Update:
+
+- gcr.io/linkerd-io/proxy:git-11c9b742
+- gcr.io/linkerd-io/proxy-init:git-11c9b742
+- gcr.io/linkerd-io/cli-bin:git-11c9b742
+- gcr.io/linkerd-io/grafana:git-11c9b742
+- gcr.io/linkerd-io/controller:git-11c9b742
+- gcr.io/linkerd-io/web:git-11c9b742
 ### 2018-09-21 15:59:18 Update:
 
 - gcr.io/istio-release/galley:collab-gcp-identity-20180920-09-15
