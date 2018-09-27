@@ -1,3 +1,17 @@
+### 2018-09-27 16:11:57 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-d287480f
+- gcr.io/linkerd-io/proxy-init:edge-18.9.3
+- gcr.io/linkerd-io/web:edge-18.9.3
+- gcr.io/linkerd-io/web:git-d287480f
+- gcr.io/linkerd-io/grafana:git-d287480f
+- gcr.io/linkerd-io/cli-bin:git-d287480f
+- gcr.io/linkerd-io/grafana:edge-18.9.3
+- gcr.io/linkerd-io/cli-bin:edge-18.9.3
+- gcr.io/linkerd-io/proxy:edge-18.9.3
+- gcr.io/linkerd-io/controller:git-d287480f
+- gcr.io/linkerd-io/proxy:git-d287480f
+- gcr.io/linkerd-io/controller:edge-18.9.3
 ### 2018-09-27 16:10:59 Update:
 
 - gcr.io/istio-release/sidecar_injector:rkpagadala-test15
