@@ -1,3 +1,11 @@
+### 2018-09-28 16:21:33 Update:
+
+- gcr.io/linkerd-io/cli-bin:ver-stacked.01
+- gcr.io/linkerd-io/proxy-init:ver-stacked.01
+- gcr.io/linkerd-io/web:ver-stacked.01
+- gcr.io/linkerd-io/controller:ver-stacked.01
+- gcr.io/linkerd-io/grafana:ver-stacked.01
+- gcr.io/linkerd-io/proxy:ver-stacked.01
 ### 2018-09-28 16:21:09 Update:
 
 - gcr.io/istio-release/citadel:release-1.0-20180927-09-15
