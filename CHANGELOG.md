@@ -1,3 +1,24 @@
+### 2018-09-29 15:59:35 Update:
+
+- gcr.io/istio-release/node-agent:master-20180928-09-15
+- gcr.io/istio-release/citadel:master-20180928-09-15
+- gcr.io/istio-release/mixer:master-20180928-09-15
+- gcr.io/istio-release/node-agent-test:master-20180928-09-15
+- gcr.io/istio-release/citadel-test:master-20180928-09-15
+- gcr.io/istio-release/servicegraph:master-20180928-09-15
+- gcr.io/istio-release/galley:master-20180928-09-15
+- gcr.io/istio-release/pilot:master-20180928-09-15
+- gcr.io/istio-release/app:master-20180928-09-15
+- gcr.io/istio-release/proxytproxy:master-20180928-09-15
+- gcr.io/istio-release/sidecar_injector:master-20180928-09-15
+- gcr.io/istio-release/proxyv2:master-20180928-09-15
+- gcr.io/istio-release/servicegraph_debug:master-20180928-09-15
+- gcr.io/istio-release/proxy_init:master-20180928-09-15
+- gcr.io/istio-release/node-agent-k8s:master-20180928-09-15
+- gcr.io/istio-release/mixer_debug:master-20180928-09-15
+- gcr.io/istio-release/test_policybackend:master-20180928-09-15
+- gcr.io/istio-release/mixer_debug:release-1.0-20180927-21-10
+- gcr.io/istio-release/proxy_debug:master-20180928-09-15
 ### 2018-09-29 15:56:47 Update:
 
 - gcr.io/google-containers/defaultbackend-amd64:1.5
