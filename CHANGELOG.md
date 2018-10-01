@@ -1,3 +1,11 @@
+### 2018-10-01 16:13:34 Update:
+
+- gcr.io/linkerd-io/cli-bin:ver-stacked.22
+- gcr.io/linkerd-io/controller:ver-stacked.22
+- gcr.io/linkerd-io/proxy:ver-stacked.22
+- gcr.io/linkerd-io/proxy-init:ver-stacked.22
+- gcr.io/linkerd-io/web:ver-stacked.22
+- gcr.io/linkerd-io/grafana:ver-stacked.22
 ### 2018-10-01 16:13:13 Update:
 
 - gcr.io/istio-release/galley:release-1.0-20180930-09-15
