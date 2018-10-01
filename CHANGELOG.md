@@ -1,3 +1,6 @@
+### 2018-10-01 16:15:01 Update:
+
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20181001022809
 ### 2018-10-01 16:13:34 Update:
 
 - gcr.io/linkerd-io/cli-bin:ver-stacked.22
