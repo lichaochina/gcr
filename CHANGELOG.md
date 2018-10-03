@@ -1,3 +1,36 @@
+### 2018-10-03 16:12:16 Update:
+
+- gcr.io/linkerd-io/controller:ver-stacked.42
+- gcr.io/linkerd-io/cli-bin:git-bedd5764
+- gcr.io/linkerd-io/cli-bin:git-5a853e89
+- gcr.io/linkerd-io/cli-bin:git-9fe3dcde
+- gcr.io/linkerd-io/grafana:git-9fe3dcde
+- gcr.io/linkerd-io/grafana:git-bedd5764
+- gcr.io/linkerd-io/grafana:git-5a853e89
+- gcr.io/linkerd-io/cli-bin:git-dccccebd
+- gcr.io/linkerd-io/controller:ver-stacked.39
+- gcr.io/linkerd-io/controller:ver-stacked.40
+- gcr.io/linkerd-io/controller:ver-stacked.41
+- gcr.io/linkerd-io/grafana:git-dccccebd
+- gcr.io/linkerd-io/controller:git-5a853e89
+- gcr.io/linkerd-io/controller:git-bedd5764
+- gcr.io/linkerd-io/controller:git-9fe3dcde
+- gcr.io/linkerd-io/controller:ver-stacked.45
+- gcr.io/linkerd-io/controller:ver-stacked.44
+- gcr.io/linkerd-io/controller:ver-stacked.43
+- gcr.io/linkerd-io/proxy:git-5a853e89
+- gcr.io/linkerd-io/proxy-init:git-5a853e89
+- gcr.io/linkerd-io/proxy-init:git-9fe3dcde
+- gcr.io/linkerd-io/web:git-5a853e89
+- gcr.io/linkerd-io/web:git-9fe3dcde
+- gcr.io/linkerd-io/web:git-bedd5764
+- gcr.io/linkerd-io/proxy-init:git-bedd5764
+- gcr.io/linkerd-io/controller:git-dccccebd
+- gcr.io/linkerd-io/web:git-dccccebd
+- gcr.io/linkerd-io/proxy-init:git-dccccebd
+- gcr.io/linkerd-io/proxy:git-bedd5764
+- gcr.io/linkerd-io/proxy:git-9fe3dcde
+- gcr.io/linkerd-io/proxy:git-dccccebd
 ### 2018-10-03 16:10:54 Update:
 
 - gcr.io/istio-release/citadel:master-20181002-09-15
