@@ -1,3 +1,7 @@
+### 2018-10-04 16:02:58 Update:
+
+- gcr.io/google-containers/gvisor-admission-webhook-amd64:f419c470442c792b7b8fae72191132bbba44420a
+- gcr.io/google-containers/kube-cross:v1.11.1-1
 ### 2018-10-03 16:24:01 Update:
 
 - gcr.io/spinnaker-marketplace/fiat:1.1.0-20181002132808
