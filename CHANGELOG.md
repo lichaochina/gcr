@@ -1,3 +1,6 @@
+### 2018-10-07 16:01:32 Update:
+
+- gcr.io/google-containers/netd-amd64:0.1.8
 ### 2018-10-06 16:33:51 Update:
 
 - gcr.io/spinnaker-marketplace/igor:0.13.0-20181005143323
