@@ -1,3 +1,6 @@
+### 2018-10-07 16:09:32 Update:
+
+- gcr.io/spinnaker-marketplace/kayenta:0.4.0-20181006152930
 ### 2018-10-07 16:09:03 Update:
 
 - gcr.io/istio-release/citadel:collab-gcp-identity-20181006-09-15
