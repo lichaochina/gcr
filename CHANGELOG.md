@@ -1,3 +1,9 @@
+### 2018-10-09 16:11:41 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181008172808
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181008192246
+- gcr.io/spinnaker-marketplace/kayenta:0.4.0-20181009022808
+- gcr.io/spinnaker-marketplace/halyard:1.11.0
 ### 2018-10-09 16:09:41 Update:
 
 - gcr.io/linkerd-io/proxy-init:git-69cebae1
