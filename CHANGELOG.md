@@ -1,3 +1,17 @@
+### 2018-10-10 16:19:15 Update:
+
+- gcr.io/linkerd-io/proxy-init:git-fd6a09b7
+- gcr.io/linkerd-io/proxy-init:git-a3585575
+- gcr.io/linkerd-io/cli-bin:git-a3585575
+- gcr.io/linkerd-io/cli-bin:git-fd6a09b7
+- gcr.io/linkerd-io/proxy:git-fd6a09b7
+- gcr.io/linkerd-io/grafana:git-a3585575
+- gcr.io/linkerd-io/grafana:git-fd6a09b7
+- gcr.io/linkerd-io/proxy:git-a3585575
+- gcr.io/linkerd-io/web:git-fd6a09b7
+- gcr.io/linkerd-io/web:git-a3585575
+- gcr.io/linkerd-io/controller:git-a3585575
+- gcr.io/linkerd-io/controller:git-fd6a09b7
 ### 2018-10-10 16:18:26 Update:
 
 - gcr.io/istio-release/citadel:collab-gcp-identity-20181009-09-15
