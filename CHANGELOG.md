@@ -1,3 +1,18 @@
+### 2018-10-11 16:12:00 Update:
+
+- gcr.io/linkerd-io/proxy:git-4fba6aca
+- gcr.io/linkerd-io/cli-bin:git-4fba6aca
+- gcr.io/linkerd-io/proxy-init:edge-18.10.2
+- gcr.io/linkerd-io/proxy:edge-18.10.2
+- gcr.io/linkerd-io/cli-bin:edge-18.10.2
+- gcr.io/linkerd-io/grafana:edge-18.10.2
+- gcr.io/linkerd-io/controller:edge-18.10.2
+- gcr.io/linkerd-io/proxy-init:git-4fba6aca
+- gcr.io/linkerd-io/grafana:git-4fba6aca
+- gcr.io/linkerd-io/controller:git-4fba6aca
+- gcr.io/linkerd-io/web:edge-18.10.2
+- gcr.io/linkerd-io/web:git-4fba6aca
+- gcr.io/linkerd-io/go-deps:0c590d0e
 ### 2018-10-11 16:10:32 Update:
 
 - gcr.io/istio-release/node-agent:collab-gcp-identity-20181010-09-15
