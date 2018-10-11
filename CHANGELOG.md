@@ -1,3 +1,8 @@
+### 2018-10-11 16:13:59 Update:
+
+- gcr.io/spinnaker-marketplace/deck:2.5.0-20181011022808
+- gcr.io/spinnaker-marketplace/front50:0.13.0-20181011022808
+- gcr.io/spinnaker-marketplace/clouddriver:4.0.0-20181011022808
 ### 2018-10-11 16:12:00 Update:
 
 - gcr.io/linkerd-io/proxy:git-4fba6aca
